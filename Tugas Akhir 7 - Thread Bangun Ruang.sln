@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas Akhir 7 - Thread Bangun Ruang", "Tugas Akhir 7 - Thread Bangun Ruang\Tugas Akhir 7 - Thread Bangun Ruang.csproj", "{9BB09469-5708-4863-B6DD-B1D6CB88D482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadBangunRuang", "..\..\Projects2\Thread\Tugas akhir protocol\ThreadBangunRuang\ThreadBangunRuang.csproj", "{D0956917-1CB0-41EF-B908-3843DBF4D3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "..\..\Projects2\Multithreading\Multithreading\Multithreading.csproj", "{495E876B-83C7-4245-9633-D21D765482A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB09469-5708-4863-B6DD-B1D6CB88D482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB09469-5708-4863-B6DD-B1D6CB88D482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB09469-5708-4863-B6DD-B1D6CB88D482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB09469-5708-4863-B6DD-B1D6CB88D482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0956917-1CB0-41EF-B908-3843DBF4D3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0956917-1CB0-41EF-B908-3843DBF4D3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0956917-1CB0-41EF-B908-3843DBF4D3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0956917-1CB0-41EF-B908-3843DBF4D3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495E876B-83C7-4245-9633-D21D765482A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495E876B-83C7-4245-9633-D21D765482A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495E876B-83C7-4245-9633-D21D765482A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495E876B-83C7-4245-9633-D21D765482A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

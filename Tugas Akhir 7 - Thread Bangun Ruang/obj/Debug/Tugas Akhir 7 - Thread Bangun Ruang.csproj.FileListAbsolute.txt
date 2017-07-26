@@ -1,0 +1,5 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 7 - Thread Bangun Ruang\Tugas Akhir 7 - Thread Bangun Ruang\bin\Debug\Tugas Akhir 7 - Thread Bangun Ruang.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 7 - Thread Bangun Ruang\Tugas Akhir 7 - Thread Bangun Ruang\bin\Debug\Tugas Akhir 7 - Thread Bangun Ruang.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 7 - Thread Bangun Ruang\Tugas Akhir 7 - Thread Bangun Ruang\bin\Debug\Tugas Akhir 7 - Thread Bangun Ruang.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 7 - Thread Bangun Ruang\Tugas Akhir 7 - Thread Bangun Ruang\obj\Debug\Tugas Akhir 7 - Thread Bangun Ruang.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 7 - Thread Bangun Ruang\Tugas Akhir 7 - Thread Bangun Ruang\obj\Debug\Tugas Akhir 7 - Thread Bangun Ruang.pdb
